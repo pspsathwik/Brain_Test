@@ -1,0 +1,5 @@
+n,m=int(intput().split())
+print("addition")
+print(n+m)
+print("substraction")
+print(n-m)
